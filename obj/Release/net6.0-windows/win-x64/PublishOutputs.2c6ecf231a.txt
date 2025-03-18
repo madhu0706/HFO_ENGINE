@@ -1,0 +1,13 @@
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\HFO_ENGINE.pdb
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\ConversorStep1.Designer.cs
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\ConversorStep2.Designer.cs
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\ConversorStep3.Designer.cs
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\CycleTime.Designer.cs
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\HFO_ENGINE.dll.config
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\PenImc_cor3.dll
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\PresentationNative_cor3.dll
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\vcruntime140_cor3.dll
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\wpfgfx_cor3.dll
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\sni.dll
+C:\projects\hfo_engine\UI\HFO_ENGINE\bin\Release\net6.0-windows\win-x64\publish\HFO_ENGINE.exe
